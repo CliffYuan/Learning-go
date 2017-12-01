@@ -91,6 +91,11 @@ func optNotInitVar()  {
 	//var varmap map[string]int
 	//varmap["one"]=1                       //panic: assignment to entry in nil map
 
+
+	//func
+
+
+
 	var varchan chan int
 	//fmt.Println("send value to varchan")
 	//varchan<-1
